@@ -26,4 +26,8 @@ WebColors with Swift
 
 具体颜色名称参照如下：
 
-![image](http://img.my.csdn.net/uploads/201406/29/1404007733_4353.png)
+![image](http://img.my.csdn.net/uploads/201406/14/1402719378_5907.gif)
+
+License
+-------
+(c) 2014 杜子兮(duzixi). Released under the terms of the MIT license.
